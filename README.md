@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**MuenYu/MuenYu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Muen, a results-driven software developer with a passion for building scalable and reliable systems. I have 2+ years of backend and 1 year of full-stack experience, and I'm an AWS Certified Developer and Solutions Architect.  I enjoy working on challenging projects and collaborating with talented teams. 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+┌──┤ WHOAMI ├─────────▰▰▰                                      
+│  
+├─▣ Muen Yu  
+├─▣ Junior-Mid Full Stack Dev              
+├─▣ [Mashiro's Baumkuchen](https://mashiro.best)  
+├─▣ [Linkedin](https://www.linkedin.com/in/muenyu-dev/)  
+├─▣ I am willing to connect!  
+│  
+└───────────────────────────────▰▰▰  
