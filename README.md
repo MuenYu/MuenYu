@@ -23,7 +23,7 @@ He aspires to master every aspect of the software development lifecycle—becomi
 
 He has the following skills:
 
-**Web Developer**
+**Frontend**
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -41,7 +41,7 @@ He has the following skills:
 
 </p>
 
-**Backend Developer**
+**Backend**
 
 <p>
   <img alt="Go" src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white" />
@@ -83,13 +83,15 @@ He has the following skills:
 <p>
   <img alt="macOS" src="https://img.shields.io/badge/-macOS-333?style=flat-square&logo=apple&logoColor=white" />
   <img alt="vscode" src="https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff" />
-  <img alt="WebStorm"
+  <img alt="Jetbrains"
      src="https://img.shields.io/badge/WebStorm-000?style=flat-square&logo=webstorm&logoColor=fff" />
+  <img alt="PyCharm"
+     src="https://img.shields.io/badge/PyCharm-000?style=flat-square&logo=pycharm&logoColor=fff" />
 </p>
 
 
 <p align=center>
     <strong>
-      Looking for a software engineer position in Brisbane, Qld, Australia now! Let's connect thorugh <a href="https://www.linkedin.com/in/muenyu-dev/">linkedin</a>
+      Looking for a software engineer position in Brisbane, Qld, Australia now! Let's connect thorugh <a href="https://www.linkedin.com/in/muenyu-dev/">linkedin</a> !
     </strong>
 </p>
