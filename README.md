@@ -16,11 +16,6 @@ Muen is a full stack developer and certified AWS Solutions Architect (SAA) and D
 
 He aspires to master every aspect of the software development lifecycle—becoming a versatile, independent engineer passionate about automation, efficiency, and building impactful solutions through software and open-source innovation.
 
-<!--
-> Hey, I am considering looking for remote work opportunities. My resume is [here](https://resume.innei.in/), feel free to hit me up!
->
-> 嘿，我正在考虑寻找远程工作机会，简历在 [这里](https://resume.innei.ren/)，欢迎来撩我！ -->
-
 He has the following skills:
 
 **Frontend**
