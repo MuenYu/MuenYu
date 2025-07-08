@@ -86,6 +86,6 @@ He has the following skills:
 
 <p align=center>
     <strong>
-      Looking for a software engineer position in Australia now! Let's connect thorugh <a href="https://www.linkedin.com/in/muenyu-dev/">linkedin</a> !
+      Let's connect thorugh <a href="https://www.linkedin.com/in/muenyu-dev/">linkedin</a> !
     </strong>
 </p>
