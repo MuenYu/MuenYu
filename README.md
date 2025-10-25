@@ -1,5 +1,5 @@
 # Hello, I'm Muen 👋
-
+<!--
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=muenyu&show_icons=true&theme=dark"
@@ -11,6 +11,7 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=muenyu&show_icons=true" align=right />
 </picture>
+-->
 
 Muen is a full stack developer and certified AWS Solutions Architect (SAA) and Developer (DVA). Fueled by curiosity, he's always eager to explore new technologies and deepen his understanding across diverse domains.
 
