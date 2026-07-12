@@ -1,24 +1,25 @@
-# Hello, I'm Muen 👋
-<!--
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=muenyu&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=muenyu&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=muenyu&show_icons=true" align=right />
-</picture>
--->
+```text
+      |\___/|   zZ          __  __                   __   __
+     (  -.-  )             |  \/  |_   _  ___ _ __  \ \ / /   _
+     /       \__           | |\/| | | | |/ _ \ '_ \  \ V / | | |
+    /  /   \    `-.        | |  | | |_| |  __/ | | |  | || |_| |
+   (__(_____)______)       |_|  |_|\__,_|\___|_| |_|  |_| \__,_|
+```
 
-Muen is a full stack developer and certified AWS Solutions Architect (SAA) and Developer (DVA). Fueled by curiosity, he's always eager to explore new technologies and deepen his understanding across diverse domains.
+```console
+muen@mashiro:~$ whoami
+AI Native Full-stack developer · AWS-certified cloud engineer in Sydney
 
-He aspires to master every aspect of the software development lifecycle—becoming a versatile, independent engineer passionate about automation, efficiency, and building impactful solutions through software and open-source innovation.
+muen@mashiro:~$ cat ~/notes/engineering.log
+- 2 years in game backend systems, internal tools and web products
+- currently in travel platform reliability, developer tooling, and applied AI
 
-<p align=center>
-    <strong>
-      Let's connect thorugh <a href="https://www.linkedin.com/in/muenyu-dev/">linkedin</a> !
-    </strong>
-</p>
+muen@mashiro:~$ echo $PHILOSOPHY
+Understand the system. Automate the repetition. Ship software that lasts.
+```
+
+
+`muen@mashiro:~$ browse --portfolio` [me.mashiro.best](https://me.mashiro.best)  
+`muen@mashiro:~$ connect --linkedin` [linkedin.com/in/muenyu-dev](https://www.linkedin.com/in/muenyu-dev/)  
+`muen@mashiro:~$ check --aws-saa` [credential](https://www.credly.com/badges/8d20efe6-9220-42b6-beaa-79fc33e8f526)  
+`muen@mashiro:~$ check --aws-dva` [credential](https://www.credly.com/badges/a6a64eed-74fe-412b-b691-0c9683f1ca97)
