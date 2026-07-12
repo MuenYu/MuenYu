@@ -8,7 +8,7 @@
 
 ```console
 muen@mashiro:~$ whoami
-AI-native Full-stack developer · AWS-certified cloud engineer · Based in Sydney
+AI-native full-stack developer · AWS-certified cloud engineer based in Sydney
 
 muen@mashiro:~$ cat ~/notes/engineering.log
 - 2 years in game backend systems, internal tools and web products
