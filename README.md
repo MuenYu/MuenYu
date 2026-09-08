@@ -3,13 +3,13 @@
  |  \/  |_   _  ___ _ __  \ \ / /   _
  | |\/| | | | |/ _ \ '_ \  \ V / | | |
  | |  | | |_| |  __/ | | |  | || |_| |
- |_|  |_|\__,_|\___|_| |_|  |_| \__,_|   Channel: stable | Build: 2026.08
+ |_|  |_|\__,_|\___|_| |_|  |_| \__,_|   0x4d75656e | Build: 2026.09
 
 muen@mashiro:~$ whoami
 AI-native full-stack developer · AWS-certified cloud engineer based in Sydney
 
 muen@mashiro:~$ cat ~/notes/engineering.log
-- 2 years in game backend systems, internal tools and web products
+- game backend systems, internal tools and web products since 2018
 - currently in travel platform reliability, developer tooling, and applied AI
 
 muen@mashiro:~$ echo $PHILOSOPHY
